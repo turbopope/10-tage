@@ -1,0 +1,19 @@
+#!/usr/bin/ruby
+require "colorize"
+
+ARGF.each do |line|
+  if line.start_with?('[')
+    parts = line.split('] ', 2)
+    stamp = parts[0]
+    message = parts[1]
+    if stamp.include?('Illias')
+      print (stamp + "] ").light_blue
+      print message.blue
+    else
+      print (stamp + "] ").light_red
+      print message.red
+    end
+  else
+    print line
+  end
+end
