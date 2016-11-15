@@ -11,3 +11,4 @@
 * Der Text ist ein Chatlog den der BND mitliest
 * Die neue SIM-Karte ist eine geklaute SSIM-Karte, die über Satteliten kommunizieren kann. Bald sind SSIMs die einzigen noch im UK funktionierenden Kommunikationsmittel
 * Schottland macht ein Referendum und tritt aus dem UK aus, um wieder der EU beizutreten. Die lassen sie aber nicht. Das UK will daraufhin Schottland gewaltsam wieder integrieren.
+* Illias wird getötet. Sein Mörder übernimmt, und Saba wird gefangen genommen. Saba entkommt, mit dem Handy. In der zwischenzeit wird David durch a-41d3n ersetzt, der das Video noch einmal zugeschickt haben möchte.
