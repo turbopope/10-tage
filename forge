@@ -1,0 +1,42 @@
+#!/usr/bin/ruby
+
+require 'date'
+
+date = Time.new
+doing = false
+done = false
+out = Array.new
+
+text = File.read('10-tage.txt')
+text.each_line do |line|
+  # line = line.strip
+  if line.start_with?('[')
+    # Previous blocks
+    parts = line.split('] ', 2)
+    stamp = parts[0][1..-1]
+    message = parts[1]
+    stamp_parts = stamp.split(' ')
+    date = DateTime.parse(stamp_parts[0] + "T" + stamp_parts[1] + " CEST").to_time
+    puts date.getlocal().gmt_offset
+    out.push(line)
+  else
+    if line.strip != "" && line.strip != "---" && !line.start_with?('#') && !done
+      # Current block
+      name = "Illias"
+      if line.start_with?('  ')
+        name = "David"
+      end
+      date += line.length / 1.75
+      new_line = "[#{date.strftime('%F %H:%M')} #{name}] #{name == 'David' ? ' ' : ''}#{line.strip}\n"
+      out.push(new_line)
+      doing = true
+    elsif doing
+      done = true
+      out.push(line)
+    else
+      out.push(line)
+    end
+  end
+end
+
+File.write('10-tage.txt', out.join)
