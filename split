@@ -1,0 +1,4 @@
+#!/bin/bash
+
+csplit --prefix="beweismittel-a-" --suffix-format="%1d.log" --suppress-matched 10-tage.txt '/^---$/' '{*}'
+rm -f beweismittel-a-0.log
