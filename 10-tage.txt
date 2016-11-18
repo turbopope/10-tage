@@ -108,14 +108,14 @@
 
 [2016-08-22 19:30 Illias] Ich habe jemanden kennen gelernt.
 [2016-08-22 19:32 David]  do tell
-[2016-08-22 19:33 Illias] Sie heißt Saba. Lebt hier in London. Wir haben in dem Pub zufällig neben einander gesessen als die Ansprache lief. Natürlich sind wir darüber ins Gespräch gekommen. Sie hat so ziemlich die gleichen politischen Ansichten wie ich und trotz der alles anderen als romantischen Stimmung schien da eine gewisse Spannung zwischen uns zu liegen. Sie hat mir ihre Handynummer gegeben "falls ich eine Unterkunft brauche".
+[2016-08-22 19:33 Illias] Sie heißt Alea. Lebt hier in London. Wir haben in dem Pub zufällig neben einander gesessen als die Ansprache lief. Natürlich sind wir darüber ins Gespräch gekommen. Sie hat so ziemlich die gleichen politischen Ansichten wie ich und trotz der alles anderen als romantischen Stimmung schien da eine gewisse Spannung zwischen uns zu liegen. Sie hat mir ihre Handynummer gegeben "falls ich eine Unterkunft brauche".
 [2016-08-22 19:34 David]  lol
 [2016-08-22 19:34 Illias] *Image not available*
 [2016-08-22 19:34 David]  nice
 [2016-08-22 19:41 Illias] Das Beste ist dass sie Deutsch spricht.
 [2016-08-22 19:42 Illias] Sie ist mit ihren Eltern wegen Jobs viel rumgezogen und hat insgesamt 5 Jahre in Deutschland gelebt.
-[2016-08-22 19:43 Illias] Ursprünglich kommen ihre Eltern aus Pakistan, aber sie hat selbst nie dort gelebt.
-[2016-08-22 19:44 Illias] Sie studiert hier in London Nachrichtentechnik. Will irgendwas mit Satteliten machen, aber ich hab nicht ganz verstanden was.
+[2016-08-22 19:43 Illias] Ursprünglich kommen ihre Eltern aus Israel, aber sie hat dort nur als kleines Kind gelebt.
+[2016-08-22 19:44 Illias] Sie studiert hier in London Nachrichtentechnik. Hat große Pläne und will irgendwas mit Satteliten machen, aber ich hab nicht ganz verstanden was.
 [2016-08-22 19:45 David]  klingt ja interessant
 
 [2016-08-22 20:29 Illias] Was sagt eigentlich die NATO zu dieser Sache?
@@ -226,7 +226,7 @@
 [2016-08-23 11:40 Illias] Kurz afk.
 ---
 [2016-08-23 12:11 Illias] re
-[2016-08-23 12:11 Illias] Bin jetzt bei Saba. Sie wohnt in Camden, in einer super-kleinen Studentenwohnung mit 2 Zimmern.
+[2016-08-23 12:11 Illias] Bin jetzt bei Alea. Sie wohnt in Camden, in einer super-kleinen Studentenwohnung mit 2 Zimmern.
 [2016-08-23 12:13 Illias] Erinnert mich ein bisschen an deine Bude, nur dass es hier aufgeräumt ist und es nicht nach Räucherstäbchen riecht ;-)
 [2016-08-23 12:17 David]  ha ha
 [2016-08-23 12:17 David]  bei dir zu hause sieht's doch selbst nicht besser aus und du drückst dich schon seit wochen davor endlich dein fruchtfliegenproblem zu lösen
@@ -236,14 +236,14 @@
 [2016-08-23 12:21 David]  was ein glück dass die außer mir keiner mag, muhaha
 [2016-08-23 12:21 Illias] Ugh. Und du bist vor allem der Einzige der sie kalt isst.
 
-[2016-08-23 14:30 David]  und du bist jetzt bei dieser saba?
+[2016-08-23 14:30 David]  und du bist jetzt bei dieser Alea?
 [2016-08-23 14:31 Illias] Ich bin bei ihr fürs Erste untergekommen, ja. Sie ist echt super nett, und ohne sie stünde ich jetzt sehr schlecht da.
 [2016-08-23 14:31 David]  läuft da was?
 [2016-08-23 14:31 Illias] Ich hab grade andere Probleme.
 [2016-08-23 14:31 David]  k
 
 [2016-08-23 15:01 David]  wie läufts?
-[2016-08-23 15:13 Illias] Wir waren grade einkaufen. Oder zumindest wollten wir. Aber hier sieht es noch schlechter aus als bei dir, denke ich. Die meisten Läden sind für heute schon geschlossen. Vermutlich haben die Leute Angst vor der Situation. Haben jetzt auch nur ein paar random Dosen kaufen können, alles andere war schon zu teuer. Zum Glück kannte Saba den Verkäufer, sonst hätte man uns gar nicht erst in den Laden gelassen.
+[2016-08-23 15:13 Illias] Wir waren grade einkaufen. Oder zumindest wollten wir. Aber hier sieht es noch schlechter aus als bei dir, denke ich. Die meisten Läden sind für heute schon geschlossen. Vermutlich haben die Leute Angst vor der Situation. Haben jetzt auch nur ein paar random Dosen kaufen können, alles andere war schon zu teuer. Zum Glück kannte Alea den Verkäufer, sonst hätte man uns gar nicht erst in den Laden gelassen.
 [2016-08-23 15:13 David]  na dann wird dich das hier doppelt freuen:
 [2016-08-23 15:15 David]  ich habe mal meine kontakte spielen lassen und habe einen reporter in london gefunden der schon mal für meine agentur gearbeitet hat. er wird sich das video sicherlich einmal ansehen wollen
 [2016-08-23 15:15 Illias] Gruselig wie sehr ihr Leute bei der Presse unter einer Decke steckt
@@ -259,7 +259,7 @@
 [2016-08-23 15:20 David]  das ist etwas schwierig. ich hatte bis jetzt keinen kontakt zu ihm
 [2016-08-23 15:20 Illias] Du hast noch nicht mit ihm geredet?
 [2016-08-23 15:21 David]  nein. ich kann nicht. anrufe kommen nicht durch, und auf meine mails hat er bisher nicht geantwortet
-[2016-08-23 15:22 Illias] Vielleicht kann er nicht. Saba hat seit gestern kein Netz mehr und auch die Hausleitung ist tot. Vielleicht betrifft das grade ganz London.
+[2016-08-23 15:22 Illias] Vielleicht kann er nicht. Alea hat seit gestern kein Netz mehr und auch die Hausleitung ist tot. Vielleicht betrifft das grade ganz London.
 [2016-08-23 15:23 David]  jo. jedenfalls hat mein kontakt eine wohnung in der nähe vom hyde park. ich schick dir die position
 [2016-08-23 15:24 David]  *Geographic data not available*
 [2016-08-23 15:24 Illias] Alles klar. Ich vertraue dir mit der Sache.
@@ -278,14 +278,14 @@
 [2016-08-23 16:14 Illias] Ne, meine hat doch gestern den Geist aufgegeben. Habe jetzt die von dem komischen Dealer im Smartphone.
 [2016-08-23 16:14 David]  aso
 [2016-08-23 16:14 David]  das ist komisch
-[2016-08-23 16:15 Illias] Jo. Sehr. Ich kann das auf jeden Fall bestätigen. Saba und alle anderen mit denen ich gesprochen habe haben keinen Empfang mehr.
+[2016-08-23 16:15 Illias] Jo. Sehr. Ich kann das auf jeden Fall bestätigen. Alea und alle anderen mit denen ich gesprochen habe haben keinen Empfang mehr.
 [2016-08-23 16:16 David]  meinst du da steckt der premier dahinter?
 [2016-08-23 16:16 Illias] Möglich.
-[2016-08-23 16:16 Illias] Btw Saba sagt "Hi"
+[2016-08-23 16:16 Illias] Btw Alea sagt "Hi"
 [2016-08-23 16:16 Illias] Hi
 [2016-08-23 16:16 David]  hi!
 
-[2016-08-23 17:40 Illias] Ok, wir sind jetzt am Hyde Park. Habe Saba mitgenommen
+[2016-08-23 17:40 Illias] Ok, wir sind jetzt am Hyde Park. Habe Alea mitgenommen
 [2016-08-23 17:40 Illias] Zur Unterstützung.
 [2016-08-23 17:43 David]  Viel Glück.
 
@@ -320,7 +320,7 @@
 
 [2016-08-23 18:28 David]  illias?
 [2016-08-23 18:28 David]  hey ellias, bist du da?
-[2016-08-23 18:28 David]  saba?
+[2016-08-23 18:28 David]  Alea?
 [2016-08-23 18:28 David]  typ?
 [2016-08-23 18:29 David]  anyone?
 [2016-08-23 18:29 David]  talk to me
@@ -344,7 +344,7 @@
 ---
 [2016-08-23 22:08 Illias] David?
 [2016-08-23 22:09 David]  illias?
-[2016-08-23 22:10 Illias] hier ist Saba
+[2016-08-23 22:10 Illias] hier ist Alea
 [2016-08-23 22:10 Illias] es tut mir so leid David
 [2016-08-23 22:10 David]  wie geht es illias?
 [2016-08-23 22:10 Illias] es tut mir so leid
@@ -371,7 +371,7 @@
 [2016-08-23 22:21 Illias] Illias hat mich gerettet
 [2016-08-23 22:22 David]  duck. ich brauche ein bisschen
 
-  Saba?
+  Alea?
 ja?
   ich habe fragen
 bitte
